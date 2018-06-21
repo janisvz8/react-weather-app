@@ -1,0 +1,80 @@
+.humid_style {
+   padding: 14px 14px;
+    float: left;
+}
+
+.wind_style {
+      padding: 14px 14px;
+    float: left;
+}
+
+.cardWidth {
+    width: 18.5% !important;
+    float: left !important;
+    margin-right: 10px !important;
+    margin-left: 10px !important;
+    background-color: #6c3ebf !important;
+    box-shadow: rgba(0, 0, 0, 0.50) 3px 6px 10px, rgba(0, 0, 0, 0.12) 0px 4px 4px !important;
+    height: 585px !important;
+    margin-bottom: 30px !important; 
+    margin-top: 15px;
+  }
+.imgStyle {
+    max-width: 80px !important;
+    min-width: 80px !important;
+  }
+.hourStyle {
+        float: left !important;
+    padding: 10px 12px;
+    font-size: 9pt;
+}
+.hourimgStyle {
+    max-width: 25px !important;
+    min-width: 25px !important;
+    padding: 8px 0px;
+
+  }
+.iconStyle {
+    max-width: 40px !important;
+    min-width: 40px !important;
+}
+
+.float-left {
+    float: left;
+}
+
+.temp {
+    font-size: 41pt;
+    margin: 15px;
+}
+
+.temp:after {
+    content: "\00b0"
+}
+
+.smalltemp:after {
+    content: "\00b0"
+}
+
+.div_padding {
+    margin: 13px 2px;
+}
+
+.card-color {
+    padding-bottom: 26px;
+    padding-top: 5px;
+    background-color: #c4b5de;
+}
+
+
+.flex-container-col {
+    display: flex;
+    flex-direction: column;
+  }
+.flex-container-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0 14px;
+  }
+  
